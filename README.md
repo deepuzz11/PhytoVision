@@ -110,27 +110,8 @@ Evaluate the model's performance:
 ---
 
 ## Feature Importance Analysis
-- **Principal Component Analysis (PCA)**:
-- Explains variance ratios for top components.
-- **Permutation Feature Importance**:
-- Analyzes feature impact on the model's accuracy.
-
----
-
-## Future Enhancements
-- Add support for real-time classification using a webcam or mobile application.
-- Expand the dataset to include more plant species.
-- Implement deep learning-based classification (e.g., CNNs).
-- Improve feature extraction with advanced methods like Fourier transforms or wavelets.
-
----
-
-## Authors
-**Deepika P.**  
-Shiv Nadar University, Chennai  
-Specialization: Cybersecurity  
-
-For any queries, feel free to reach out at [your-email@example.com].
+- **Principal Component Analysis (PCA)**:  Explains variance ratios for top components.
+- **Permutation Feature Importance**:  Analyzes feature impact on the model's accuracy.
 
 ---
 
