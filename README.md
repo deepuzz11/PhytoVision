@@ -100,12 +100,14 @@ Evaluate the model's performance:
   - Precision: 97% (macro average)
   - Recall: 96% (macro average)
   - F1-Score: 96% (macro average)
+![image](https://github.com/user-attachments/assets/8a69e49f-8afd-4eec-a935-8f3f8e04abf0)
 
 ---
 
 ## Visualizations
 - **Confusion Matrix**: Visual representation of model performance.
 - **ROC Curve**: Displays the model's tradeoff between true positive rate and false positive rate.
+![image](https://github.com/user-attachments/assets/a0f5dd4a-28cd-4a81-a376-222c20cb8ca6)
 
 ---
 
@@ -123,4 +125,3 @@ Evaluate the model's performance:
 
 ## License
 This project is licensed under the MIT License.  
-Feel free to use, modify, and distribute this project as per the license terms.
