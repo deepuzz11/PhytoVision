@@ -32,7 +32,7 @@
 pip install -r Requirements.txt
 ``` 
 ## Directory Structure 
-
+```
 PhytoVision/
 │
 ├── assets/                   # Contains sample test images
@@ -61,7 +61,7 @@ Flavia leaves dataset # consists of 1000 samples
 ├── Main.ipynb                # Main Jupyter notebook for training, evaluation, and visualization
 ├── README.md                 # Project documentation
 
-
+```
 ---
 
 ## How to Use
