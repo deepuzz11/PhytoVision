@@ -100,8 +100,6 @@ Evaluate the model's performance:
   - Precision: 97% (macro average)
   - Recall: 96% (macro average)
   - F1-Score: 96% (macro average)
-- **Confusion Matrix**:
-[[481 4] [ 7 81]]
 
 ---
 
